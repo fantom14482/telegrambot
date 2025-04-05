@@ -6,7 +6,7 @@ import os
 
 from background import keep_alive
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("7919378958:AAH4aT87Uq93mril_MI_r39ubxsz010JlKo")
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 
